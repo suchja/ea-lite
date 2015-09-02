@@ -1,7 +1,7 @@
 ## About
 This image, based on [suchja/wine](https://hub.docker.com/r/suchja/wine/), provides you the latest version of Sparx Systems's [Enterprise Architect Lite](http://www.sparxsystems.com/products/ea/index.html). The *Lite* Version of *Enterprise Architect* can only read UML-Models created with another version of Enterprise Architect.
 
-**ATTENTION:** Using this image requires you to download around 770MB.
+**ATTENTION:** Using this image requires you to download around 770MB. (Of course this depends on which images you have already donwloaded)
 
 ## Usage
 This image is based on [suchja/x11client](https://hub.docker.com/r/suchja/x11client/), which allows you to run the container on any host (locally or remote) and get the display via VNC. For this to work, you first need to run a container from [suchja/x11server](https://hub.docker.com/r/suchja/x11server/):
