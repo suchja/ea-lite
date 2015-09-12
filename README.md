@@ -1,5 +1,5 @@
 ## About
-This image, based on [suchja/wine](https://hub.docker.com/r/suchja/wine/), provides you with the latest version of [Enterprise Architect Lite](http://www.sparxsystems.com/products/ea/index.html) from Sparx Systems. The *Lite* Version of *Enterprise Architect* can only read UML-Models created with another version of Enterprise Architect.
+This image, based on [suchja/wine](https://hub.docker.com/r/suchja/wine/), provides you with the latest version of Enterprise Architect Lite from Sparx Systems (see http://www.sparxsystems.com/products/ea/index.html). The *Lite* Version of *Enterprise Architect* can only read UML-Models created with another version of Enterprise Architect.
 
 **ATTENTION:** Using this image requires you to download around 770MB. (Of course this depends on which images you have already donwloaded)
 
